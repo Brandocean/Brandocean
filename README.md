@@ -34,4 +34,4 @@
 
 <h3 align="left">More projects:</h3>
 
-- 💼 [Academic Portfolio](https://miscompetenciastec21.tec.mx/elumen/portfolio/Da7avNltKoJio19Q)
+- 💼 [Portfolio](https://brandonrz.com/)
