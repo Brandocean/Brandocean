@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **brandocean2016@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jFx9RcAzjDHxwh2w-PMu4f0YVEQGXinL/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1LHxEiKo_wSGlGJtTvf93ctSHbwPyIgUn/view?usp=sharing)
 
 - ⚡ Fun fact **I like to ride a horse**
 
