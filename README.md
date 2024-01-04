@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://brandocean.io)
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://brandocean.io)
 <h1 align="center">Hi 👋, I'm Brandon Rivera Zuñiga</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Kanban Start](https://github.com/Brandon-Rivera/Kanban-Star.git)
+- 🔭 I’m currently working on [Kanban Star](https://github.com/Brandon-Rivera/Kanban-Star.git)
 
 - 💬 Ask me about **React Native**
 
 - 📫 How to reach me **brandocean2016@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1LHxEiKo_wSGlGJtTvf93ctSHbwPyIgUn/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kSnkOm0CWgWYhhx5s0ZuOPsYJMNejJ3D/view?usp=sharing)
 
 - ⚡ Fun fact **I like to ride a horse**
 
