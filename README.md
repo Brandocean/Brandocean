@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://brandocean.io)
 <h1 align="center">Hi 👋, I'm Brandon Rivera Zuñiga</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate Full stack developer from Mexico</h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandon-rivera&label=Profile%20views&color=0e75b6&style=flat" alt="brandon-rivera" /> </p>
