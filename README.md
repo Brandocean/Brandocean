@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Kanban Star](https://github.com/Brandon-Rivera/Kanban-Star.git)
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **brandocean2016@gmail.com**
 
