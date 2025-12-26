@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandon-rivera&label=Profile%20views&color=0e75b6&style=flat" alt="brandon-rivera" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on [CashPilot](https://github.com/Brandocean/purse-pilot-tool)
 
-- 🔭 I’m currently working on [Kanban Star](https://github.com/Brandon-Rivera/Kanban-Star.git)
-
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **React JS and AWS**
 
 - 📫 How to reach me **brandocean2016@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1kSnkOm0CWgWYhhx5s0ZuOPsYJMNejJ3D/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/170UJXZhIQYACtDlRLhQxlnvIGcCzoP88/view?usp=sharing)
 
 - ⚡ Fun fact **I like to ride a horse**
 
