@@ -45,6 +45,9 @@
 
 `PostgreSQL` `MongoDB` `MySQL` `Redis`
 
+#### Developer Tools & Environment
+`Linux` `Git` `GitHub`
+
 ---
 
 ### 🏗️ Engineering Focus
